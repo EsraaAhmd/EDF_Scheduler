@@ -1,0 +1,10 @@
+The following thesis discuss how to implement an EDF scheduler using FreeRTOS.
+
+1-Download the following thesis: "Implementation and Test of EDF and LLREFSchedulers in FreeRTOS".
+2-Read chapter 2 : "FreeRTOS Task Scheduling". This is an important chapter to build a profound base before starting the project.
+3-Read chapter 3 : "EDF Scheduler". This chapter is the main chapter you will use to implement the EDF scheduler using FreeRTOS.
+4-Watch the final project explanation video to further understand the thesis and the FreeRTOS dependencies.
+5-Implement the changes mentioned in chapter 3.2.2 : "Implementation in FreeRTOS". The changes will be implemented in tasks.c source file only.
+
+"For this criteria please deliver the following:
+Tasks.c source file with changes implemented from chapter 3.2.2 from the thesis"
